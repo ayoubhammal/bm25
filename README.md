@@ -1,4 +1,4 @@
-# BM25 cpu implementation with batch capabilities
+# Efficient BM25 implementation
 
 Compatible with scikit-learn.
 
